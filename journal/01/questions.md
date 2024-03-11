@@ -2,7 +2,7 @@
 
 1. In your own words, why do we use Git?
 
-   > | Git and its version control as well as keeping our projects in order is incredibly important |
+   > | Git and its version control as well as keeping our projects in order is incredibly important. It is a control system used to handle small to very large projects efficiently. Git is used to track changes in the source code, enabling multiple developers to work together on non-linear development. |
 
 2. In the terminal, what is the command `mkdir` used for?
 
@@ -10,7 +10,7 @@
 
 3. What is a **_pseudo-class_** and what are some of the most common ones you think you will use?
 
-   > | A pseudo-class is used to define special states of an element. For ex/ button:hover will allow us to affect the styles of the button when the mouse hovers over it. I think i'll end up using the single ':hover' a lot but there are many others, including pseudo elements (::) that I'll use too |
+   > | A pseudo-class is used to define special states of an element. For ex/ button:hover will allow us to affect the styles of the button when the mouse hovers over it. I think i'll end up using ':hover' a lot but there are many others, including pseudo elements (::) that I'll use too |
 
 4. What is **_specificity_** and how might you use it to your benefit?
 
