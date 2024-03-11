@@ -5,7 +5,7 @@ My name is Emma Wood. I am a student at [CodeWorks](https://boisecodeworks.com) 
 ## Work
 
 * [My Github](https://github.com/ewood-coder)
-* [Portfolio](https://ewood-coder.github.io/)
+* [Portfolio](https://ewood-coder.github.io/EmmaPortfolioBootstrap/index.html/)
 
 ## Contact
 
