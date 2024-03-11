@@ -44,7 +44,7 @@
 
 10.   Define the display `:flex property:`
 
-      > | The display: flex property sets your container to be a flexbox element. Enabling the flexbox layout mode lets you manipulate elements' alignment, spacing, and order within a container. <!-- .class {display: flex;} --> |
+      > | The display: flex property sets your container to be a flexbox element. Enabling the flexbox layout mode lets you manipulate elements' alignment, spacing, and order within a container. .class {display: flex;} |
 
 11.   What `CSS` properties affect the size of a box model?
       > | The CSS box model is a container that contains multiple properties including borders, margin, padding, and the content itself. In the standard box model, if you set inline-size and block-size (or width and height) property values on a box, these values define the inline-size and block-size (width and height in horizontal languages) of the content box. You can also just list the width, height, padding, border, and margin properties by themselves with their values to change the size of the box model. |
