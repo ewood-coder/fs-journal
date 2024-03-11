@@ -40,7 +40,7 @@
 
 9. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
 
-   > | While creating a complex wireframe might take some time, it's definitely worth it. With it, you can get the client to review and accept key mechanics and elements of website structure. Wireframes are unique in that they help you get to a design solution quickly and make it easy to communicate the solution to different kinds of people. Unlike other design techniques, they support both divergent and convergent processes equally well. Divergence is the process of exploring and generating a wide range of ideas and possibilities without any judgment or criticism. Convergent thinking refers to the process of selecting, evaluating, and refining the most promising ideas from the divergent phase.|
+   > | While creating a complex wireframe might take some time, it's definitely worth it. With it, you can get the client to review and accept key mechanics and elements of website structure. Wireframes are unique in that they help you get to a design solution quickly and make it easy to communicate the solution to different kinds of people. Unlike other design techniques, they support both divergent and convergent processes equally well. Divergence is the process of exploring and generating a wide range of ideas and possibilities without any judgment or criticism. Convergent thinking refers to the process of selecting, evaluating, and refining the most promising ideas from the divergent phase. |
 
 10.   Define the display `:flex property:`
 
