@@ -4,7 +4,7 @@
 -  **[Petcare](https://ewood-coder.github.io/petcare)**
 -  **[CoolSite](https://ewood-coder.github.io/coolSite)**
 -  **[CloneSite](https://ewood-coder.github.io/cloneSite)**
--	**[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
+-	**[PartnerClone](https://ewood-coder.github.io/partnerClone/)**
 -	**[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
 -	**[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
 -	**[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
