@@ -9,7 +9,7 @@
 
 03. What are the `SOLID` principles?
 
-    > | SOLID is a mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable.                                       																												S: Single-responsiblity Principle    																																	O: Open-closed Principle 																																					L: Liskov Substitution Principle 																																		I: Interface Segregation Principle  																																	D: Dependency Inversion Principle |
+    > | SOLID is a mnemonic acronym for five design principles intended to make object-oriented designs more understandable, flexible, and maintainable.                                       																												S: Single-responsibility Principle    																																	O: Open-closed Principle 																																					L: Liskov Substitution Principle 																																		I: Interface Segregation Principle  																																	D: Dependency Inversion Principle |
 
 04. Given this array: How could you remove the `pineapple`?
 
