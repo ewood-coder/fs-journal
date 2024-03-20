@@ -1,6 +1,7 @@
 ## Afternoon Assignment Links
 
 -  **[Repo](https://github.com/ewood-coder/fs-journal)**
+
 -  **[Petcare](https://ewood-coder.github.io/boiseCodeWorks/Week1/petcare)**
 -  **[CoolSite](https://ewood-coder.github.io/boiseCodeWorks/Week1/coolSite)**
 -  **[CloneSite](https://ewood-coder.github.io/boiseCodeWorks/Week1/cloneSite)**
