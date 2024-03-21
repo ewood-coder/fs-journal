@@ -6,7 +6,10 @@
 * **[scoreboard](https://ewood-coder.github.io/boiseCodeWorks/Week2/scoreboard/)**
 * **[iceCreamParlor](https://ewood-coder.github.io/boiseCodeWorks/Week2/iceCreamParlor/)**
 * **[sportBets](https://ewood-coder.github.io/boiseCodeWorks/Week2/sportBets)**
-* **[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
+* **[bossMonster](https://ewood-coder.github.io/boiseCodeWorks/Week2/bossMonster)**
+
+* **[Checkpoint 2](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
 
 
-* **[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
+<!-- EXTRAS -->
+*	**[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
