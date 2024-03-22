@@ -8,7 +8,7 @@
 * **[sportBets](https://ewood-coder.github.io/boiseCodeWorks/Week2/sportBets)**
 * **[bossMonster](https://ewood-coder.github.io/boiseCodeWorks/Week2/bossMonster)**
 
-* **[Checkpoint 2](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
+* **[Checkpoint 2](https://ewood-coder.github.io/moonMinerCP2/)**
 
 
 <!-- EXTRAS -->
