@@ -3,6 +3,13 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+	everything
+
 - What did you learn that was a shock or surprise?
+	everything
+
 - What are you struggling with?
+	EVERYTHING
+
 - What would you count as a victory?
+	everything i managed to finish
