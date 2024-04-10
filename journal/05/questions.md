@@ -13,7 +13,7 @@
 
 04. Which two `HTTP` request types include a body?
 
-  > | Post & Put |
+  > | Post & Put. The POST method is used to send data to a server to create a new resource. In the context of CRUD operations in REST APIs: Create: It is used for the "Create" operation. PUT is the HTTP method used for the CRUD operation, Update. For example, if the price of Avocado Toast has gone up, we should go into the database and update that information. We can do this with a PUT request. |
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
