@@ -5,7 +5,7 @@
 * **[R.E.S.T.](https://github.com/ewood-coder/boiseCodeWorks/tree/main/Week5/REST)**
 * **[bugLog](https://github.com/ewood-coder/boiseCodeWorks/tree/main/Week5/bugLog)**
 
-
+* **[Checkpoint 5]('NO CHECKPOINT THIS WEEK')**
 
 <!-- EXTRA -->
 * **[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
