@@ -10,5 +10,3 @@
 
 -	**[Checkpoint 1](https://ewood-coder.github.io/siteCloneCP1/)**
 
-<!-- EXTRAS -->
--	**[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**

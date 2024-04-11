@@ -7,6 +7,3 @@
 
 * **[Checkpoint 5]('NO CHECKPOINT THIS WEEK')**
 
-<!-- EXTRA -->
-* **[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
-

@@ -10,6 +10,3 @@
 
 * **[Checkpoint 2](https://ewood-coder.github.io/moonMinerCP2/)**
 
-
-<!-- EXTRAS -->
-*	**[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**

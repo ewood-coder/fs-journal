@@ -7,5 +7,3 @@
 
 * **[Checkpoint 3](https://ewood-coder.github.io/jotCP3/)**
 
-<!-- EXTRAS -->
-* **[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
