@@ -17,7 +17,7 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | Your application can use lifecycle hook methods to tap into key events in the lifecycle of a component or directive to initialize new instances, initiate change detection when needed, respond to updates during change detection, and clean up before deletion of instances.  |
+  > | Your application can use lifecycle hook methods to tap into key events in the lifecycle of a component or directive to initialize new instances, initiate change detection when needed, respond to updates during change detection, and clean up before deletion of instances. |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
@@ -33,8 +33,8 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-	> | Props is a keyword that stands for Properties. Props are how we pass variables and other information around between different components. This is similar to how in Javascript we can pass variables into functions as arguments. |
-	> | export default {name: 'Camera', props: {name: {type: String,}, img: {type: String,} } } |
+ > | Props is a keyword that stands for Properties. Props are how we pass variables and other information around between different components. This is similar to how in Javascript we can pass variables into functions as arguments. |
+ > | export default {name: 'Camera', props: {name: {type: String,}, img: {type: String,} } } |
 
 
 
