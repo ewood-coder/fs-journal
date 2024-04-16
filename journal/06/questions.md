@@ -13,9 +13,7 @@
 
 04. What are the three tags that make up a Vue component?
 
-> | <script> |
-> | <template> |
-> | <style> |
+> | <script> <t emplate> <style> |
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
