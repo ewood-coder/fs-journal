@@ -33,47 +33,8 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | Props is a keyword that stands for Properties. Props are how we pass variables and other information around between different components. This is similar to how in Javascript we can pass variables into functions as arguments. |
-	> | -----------------------------------------------
-	> | <template>
-	> |	<Camera 
-	> |		name="Sony A7RIV" 
-	> |		img="../sony-a7riv.jpg" 
-	> |	/>
-	> | </template> |
-	> | -----------------------------------------------
-	> | <template>
-	> | 	<div class="camera">
-	> | 		<h2 class="camera__name"></h2>
-	> | 		<img class="camera__image" src="img" />
-	> | 	</div>
-	> | </template> |
-	> | -----------------------------------------------
-	> | <template>
-	> | 	<Camera
-	> | 		v-bind:name="cameraName"
-	> | 		v-bind:img="cameraImage"
-	> | 	/>
-	> | </template>
-	> | ----------------------------------------------- OR
-	> | <template>
-	> | 	<Camera
-	> |		:name="cameraName"
-	> |		:img="cameraImage || '../no-camera-found.jpg'"
-	> | 	/>
-	> | </template>
-	> | -----------------------------------------------
-	> | export default {
-	> | 	name: 'Camera',
-	> | 	props: {
-	> | 		name: {
-	> | 			type: String,
-	> | 		},
-	> |		img: {
-	> | 			type: String,
-	> |		}
-	> |	}
-	> | }
+	> | Props is a keyword that stands for Properties. Props are how we pass variables and other information around between different components. This is similar to how in Javascript we can pass variables into functions as arguments. |
+	> | export default {name: 'Camera', props: {name: {type: String,}, img: {type: String,} } } |
 
 
 
