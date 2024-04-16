@@ -25,7 +25,7 @@
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | From my understanding the difference is that the AppState tends to be global while the state objects within a component are local or locally global to their own respective component. AppState can be viewed from all component views whilst the state object is only available within the singular component. |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
@@ -35,7 +35,6 @@
 
  > | Props is a keyword that stands for Properties. Props are how we pass variables and other information around between different components. This is similar to how in Javascript we can pass variables into functions as arguments. |
  > | export default {name: 'Camera', props: {name: {type: String,}, img: {type: String,} } } |
-
 
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
