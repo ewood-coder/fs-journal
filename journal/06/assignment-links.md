@@ -3,6 +3,6 @@
 * **[vueMiner](https://ewood-coder.github.io/boiseCodeWorks/Week6/vueMiner)**
 * **[cwFineArts](https://github.com/ewood-coder/boiseCodeWorks/tree/main/Week6/cwFineArts)**
 * **[gregsListVue](https://github.com/ewood-coder/boiseCodeWorks/tree/main/Week6/gregsListVue)**
-* **[Repo](https://github.com/ewood-coder/<ASSIGNMENT_REPO>)**
+* **[blogger](https://github.com/ewood-coder/boiseCodeWorks/tree/main/Week6/blogger)**
 
 * **[Checkpoint 6]('')**
