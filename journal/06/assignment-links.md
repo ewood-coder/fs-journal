@@ -5,4 +5,4 @@
 * **[gregsListVue](https://github.com/ewood-coder/boiseCodeWorks/tree/main/Week6/gregsListVue)**
 * **[blogger](https://github.com/ewood-coder/boiseCodeWorks/tree/main/Week6/blogger)**
 
-* **[Checkpoint 6]('')**
+* **[Checkpoint 6](https://github.com/ewood-coder/networkCP6)**
