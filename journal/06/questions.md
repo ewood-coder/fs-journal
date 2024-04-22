@@ -1,11 +1,11 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | An application entry point identifies a resource that is an access point to an application. Application entry points are used to control users' access to different versions of an application that is deployed on a platform. |
+  > | An application entry point identifies a resource that is an access point to an application. Application entry points are used to control users' access to different versions of an application that is deployed on a platform. It is specifically the main.js file |
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | A component defines a part of a page. It can contain layout information, for example, content fields and placeholders, and their positions on the page, as well as business logic or metadata for the page. Typically, you reuse components on multiple pages. |
+  > | A component defines a part of a page. It can contain layout information, for example, content fields and placeholders, and their positions on the page, as well as business logic or metadata for the page. Typically, you reuse components on multiple pages. Pages are registered within the vue router |
 
 03. What is ***Component-Based Architecture***?
 
