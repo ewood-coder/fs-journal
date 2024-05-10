@@ -3,6 +3,13 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+Everything surprisingly. I got stuck on a few harder tasks but managed to get through them.
+
 - What did you learn that was a shock or surprise?
+Nothing that was a shock or a surprise
+
 - What are you struggling with?
+javascript lol
+
 - What would you count as a victory?
+getting anything functional made, such as the weather forcast api calls :D
